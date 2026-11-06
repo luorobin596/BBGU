@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "support-registration",
+  "version": "0.1.0",
+  "description": "協助醫事人員提交支援申請、查詢進度與撤銷申請的工作流程。"
+}
